@@ -1,0 +1,5 @@
+# Simple FAQ Chatbot
+# Python 3.8 or newer is recommended.
+# No third-party packages are required.
+# The program uses only Python standard-library modules:
+# csv, re, difflib, and pathlib.
